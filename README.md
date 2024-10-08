@@ -8,7 +8,7 @@ Une application de gestion de mots de passe avec une interface utilisateur.
 ## Installation
 
 ### Méthode 1 : Télécharger l'exécutable (Windows)
-1. Téléchargez le fichier `pwgv2.exe` depuis la section [releases]([(https://github.com/Legend-Of-K/Gestionnaire-de-mot-de-passe/releases/tag/PWG)]). 
+1. Téléchargez le fichier `pwgv2.exe` depuis la section [releases](https://github.com/Legend-Of-K/Gestionnaire-de-mot-de-passe/releases/tag/PWG). 
 2. Lancez le fichier et suivez les instructions.
 
 ### Méthode 2 : Installation via Python
